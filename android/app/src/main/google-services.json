@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1089921001675",
+    "firebase_url": "https://dacs4-149dc-default-rtdb.firebaseio.com",
+    "project_id": "dacs4-149dc",
+    "storage_bucket": "dacs4-149dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089921001675:android:fd255609d5d0687043934e",
+        "android_client_info": {
+          "package_name": "com.dacs.gas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcQufubQZexcPjskhpeiBOZVGdht_SyM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
